@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "django-survey-and-report"
 description = "A django survey app that can export results as CSV or PDF using your native language."
-version = "1.4.7"
+version = "1.4.8"
 readme = "README.md"
 authors = [
     {email="pierre.sassoulas@gmail.com", name="Pierre SASSOULAS"}
